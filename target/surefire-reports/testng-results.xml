@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+    <line>
+      <![CDATA[Title is matchingMy Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingLogin - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy account - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingSearch - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[The element is present[[ChromeDriver: chrome on XP (73fce462ee2e89e86154416a18618c70)] -> xpath: //button[@class='button btn btn-default button-medium']]]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder confirmation - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingLogin - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy account - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingSummer Dresses - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[The element is present[[ChromeDriver: chrome on XP (5fbbfa691d1d3b10ea0c3bfc8155e0b9)] -> xpath: //button[@class='button btn btn-default button-medium']]]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder confirmation - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingLogin - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy account - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingSearch - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[The element is present[[ChromeDriver: chrome on XP (dfe7453f3c579c77345c18f6c407d9d9)] -> xpath: //button[@class='button btn btn-default button-medium']]]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder confirmation - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingLogin - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy account - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingSearch - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingSearch - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingLogin - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy account - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingWomen - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingPrinted Summer Dress - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[The element is present[[ChromeDriver: chrome on XP (68d8158e5d5c3f05ea9e4029e2b86628)] -> xpath: //button[@class='button btn btn-default button-medium']]]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder confirmation - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingLogin - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy account - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingWomen - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingPrinted Summer Dress - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[The element is present[[ChromeDriver: chrome on XP (fd1555006475a420dc669a226affde7f)] -> xpath: //button[@class='button btn btn-default button-medium']]]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder confirmation - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingLogin - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy account - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingSearch - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[The element is present[[ChromeDriver: chrome on XP (9f4321c178a61be7d822fa1ed42cbd81)] -> xpath: //button[@class='button btn btn-default button-medium']]]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder confirmation - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingLogin - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy account - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingSearch - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[The element is present[[ChromeDriver: chrome on XP (c8d01f2714f5807f698b78607ecf037e)] -> xpath: //button[@class='button btn btn-default button-medium']]]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder - My Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingMy Store]]>
+    </line>
+    <line>
+      <![CDATA[Title is matchingOrder confirmation - My Store]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="422816" started-at="2019-08-16T08:40:40Z" finished-at="2019-08-16T08:47:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="422816" started-at="2019-08-16T08:40:40Z" finished-at="2019-08-16T08:47:43Z">
+      <class name="scripts.TestScripts">
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:scripts.TestScripts@47f6473]" name="preConditions" is-config="true" duration-ms="16636" started-at="2019-08-16T01:40:40Z" finished-at="2019-08-16T01:40:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="incrementProductQuantityInSummary()[pri:0, instance:scripts.TestScripts@47f6473]" name="incrementProductQuantityInSummary" duration-ms="22305" started-at="2019-08-16T01:40:57Z" finished-at="2019-08-16T01:41:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title is matchingMy Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingLogin - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingMy account - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingSearch - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[The element is present[[ChromeDriver: chrome on XP (73fce462ee2e89e86154416a18618c70)] -> xpath: //button[@class='button btn btn-default button-medium']]]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingMy Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder confirmation - My Store]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- incrementProductQuantityInSummary -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:scripts.TestScripts@47f6473]" name="postConditions" is-config="true" duration-ms="12279" started-at="2019-08-16T01:41:19Z" finished-at="2019-08-16T01:41:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:scripts.TestScripts@47f6473]" name="preConditions" is-config="true" duration-ms="13894" started-at="2019-08-16T01:41:32Z" finished-at="2019-08-16T01:41:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="productPurchase()[pri:0, instance:scripts.TestScripts@47f6473]" name="productPurchase" duration-ms="19049" started-at="2019-08-16T01:41:46Z" finished-at="2019-08-16T01:42:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title is matchingMy Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingLogin - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingMy account - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingSummer Dresses - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[The element is present[[ChromeDriver: chrome on XP (5fbbfa691d1d3b10ea0c3bfc8155e0b9)] -> xpath: //button[@class='button btn btn-default button-medium']]]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingMy Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder confirmation - My Store]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- productPurchase -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:scripts.TestScripts@47f6473]" name="postConditions" is-config="true" duration-ms="22719" started-at="2019-08-16T01:42:05Z" finished-at="2019-08-16T01:42:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:scripts.TestScripts@47f6473]" name="preConditions" is-config="true" duration-ms="8808" started-at="2019-08-16T01:42:27Z" finished-at="2019-08-16T01:42:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="productSearchAndPurchase()[pri:0, instance:scripts.TestScripts@47f6473]" name="productSearchAndPurchase" duration-ms="16146" started-at="2019-08-16T01:42:36Z" finished-at="2019-08-16T01:42:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title is matchingMy Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingLogin - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingMy account - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingSearch - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[The element is present[[ChromeDriver: chrome on XP (dfe7453f3c579c77345c18f6c407d9d9)] -> xpath: //button[@class='button btn btn-default button-medium']]]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingMy Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder confirmation - My Store]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- productSearchAndPurchase -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:scripts.TestScripts@47f6473]" name="postConditions" is-config="true" duration-ms="21326" started-at="2019-08-16T01:42:52Z" finished-at="2019-08-16T01:43:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:scripts.TestScripts@47f6473]" name="preConditions" is-config="true" duration-ms="15475" started-at="2019-08-16T01:43:14Z" finished-at="2019-08-16T01:43:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="removeProductFromCart()[pri:0, instance:scripts.TestScripts@47f6473]" name="removeProductFromCart" duration-ms="9219" started-at="2019-08-16T01:43:29Z" finished-at="2019-08-16T01:43:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title is matchingMy Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingLogin - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingMy account - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingSearch - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingSearch - My Store]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- removeProductFromCart -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:scripts.TestScripts@47f6473]" name="postConditions" is-config="true" duration-ms="16861" started-at="2019-08-16T01:43:38Z" finished-at="2019-08-16T01:43:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:scripts.TestScripts@47f6473]" name="preConditions" is-config="true" duration-ms="12731" started-at="2019-08-16T01:43:55Z" finished-at="2019-08-16T01:44:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="selectAColorForProduct()[pri:0, instance:scripts.TestScripts@47f6473]" name="selectAColorForProduct" duration-ms="19192" started-at="2019-08-16T01:44:08Z" finished-at="2019-08-16T01:44:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title is matchingMy Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingLogin - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingMy account - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingWomen - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingPrinted Summer Dress - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[The element is present[[ChromeDriver: chrome on XP (68d8158e5d5c3f05ea9e4029e2b86628)] -> xpath: //button[@class='button btn btn-default button-medium']]]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingMy Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder confirmation - My Store]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- selectAColorForProduct -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:scripts.TestScripts@47f6473]" name="postConditions" is-config="true" duration-ms="29848" started-at="2019-08-16T01:44:27Z" finished-at="2019-08-16T01:44:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:scripts.TestScripts@47f6473]" name="preConditions" is-config="true" duration-ms="10456" started-at="2019-08-16T01:44:57Z" finished-at="2019-08-16T01:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="selectASizeForProduct()[pri:0, instance:scripts.TestScripts@47f6473]" name="selectASizeForProduct" duration-ms="25639" started-at="2019-08-16T01:45:07Z" finished-at="2019-08-16T01:45:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title is matchingMy Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingLogin - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingMy account - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingWomen - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingPrinted Summer Dress - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[The element is present[[ChromeDriver: chrome on XP (fd1555006475a420dc669a226affde7f)] -> xpath: //button[@class='button btn btn-default button-medium']]]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingMy Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder confirmation - My Store]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- selectASizeForProduct -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:scripts.TestScripts@47f6473]" name="postConditions" is-config="true" duration-ms="16130" started-at="2019-08-16T01:45:33Z" finished-at="2019-08-16T01:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:scripts.TestScripts@47f6473]" name="preConditions" is-config="true" duration-ms="15120" started-at="2019-08-16T01:45:49Z" finished-at="2019-08-16T01:46:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="sortProductByLowestPrice()[pri:0, instance:scripts.TestScripts@47f6473]" name="sortProductByLowestPrice" duration-ms="18947" started-at="2019-08-16T01:46:04Z" finished-at="2019-08-16T01:46:23Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title is matchingMy Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingLogin - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingMy account - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingSearch - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[The element is present[[ChromeDriver: chrome on XP (9f4321c178a61be7d822fa1ed42cbd81)] -> xpath: //button[@class='button btn btn-default button-medium']]]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingMy Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder confirmation - My Store]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sortProductByLowestPrice -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:scripts.TestScripts@47f6473]" name="postConditions" is-config="true" duration-ms="37183" started-at="2019-08-16T01:46:23Z" finished-at="2019-08-16T01:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:scripts.TestScripts@47f6473]" name="preConditions" is-config="true" duration-ms="14183" started-at="2019-08-16T01:47:00Z" finished-at="2019-08-16T01:47:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method status="PASS" signature="viewProductInListMode()[pri:0, instance:scripts.TestScripts@47f6473]" name="viewProductInListMode" duration-ms="18857" started-at="2019-08-16T01:47:15Z" finished-at="2019-08-16T01:47:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Title is matchingMy Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingLogin - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingMy account - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingSearch - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[The element is present[[ChromeDriver: chrome on XP (c8d01f2714f5807f698b78607ecf037e)] -> xpath: //button[@class='button btn btn-default button-medium']]]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder - My Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingMy Store]]>
+            </line>
+            <line>
+              <![CDATA[Title is matchingOrder confirmation - My Store]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- viewProductInListMode -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:scripts.TestScripts@47f6473]" name="postConditions" is-config="true" duration-ms="9762" started-at="2019-08-16T01:47:33Z" finished-at="2019-08-16T01:47:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+      </class> <!-- scripts.TestScripts -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
